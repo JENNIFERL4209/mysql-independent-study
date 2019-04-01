@@ -28,7 +28,7 @@ Restart:
 
 ### Takeaways
 1. **OMG, I think I need to find something like Codecademy!** While I have founded some tutorials to follow, each has their own sayings. It is difficult for me to follow one tutorial and goes to another to learn more about. **AND** I have to find code-along examples myself! Luckily, I have come across some [MySQL courses](https://www.udemy.com/topic/mysql/) to follow along! I will be exploring these courses and figure out the best way for me to learn!
-2. **Be patience!** I can't stress enough how important patience is! At first, I was fustrated when I couldn't figure out how to use MySQL in my terminal. *Okay, yes, the magic is googling.* Through googling, I was able to find the commands of starting, stoping, and restarting MySQL in the terminal. All I had to do was **copy and paste!** *See how much time I've wasted being frustrated?* Anyways, the truth is that I didn't waste that much time because I went to googling immediately. **BUT** it is important to work *smarter*, not harder.  
+2. **Be patience!** I can't stress enough how important patience is! At first, I was fustrated when I couldn't figure out how to use MySQL in my terminal. *Okay, yes, the magic is googling.* Through googling, I was able to find the commands of starting, stopping, and restarting MySQL in the terminal. All I had to do was **copy and paste!** *See how much time I've wasted being frustrated?* Anyways, the truth is that I didn't waste that much time because I went to googling immediately. **BUT** it is important to work *smarter*, not harder.  
 
 
 ### Resources

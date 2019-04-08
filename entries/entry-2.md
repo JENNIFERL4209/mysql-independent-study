@@ -46,10 +46,10 @@ Filtering data: _choosing a specific part of the data_
 
 [All the examples come from an employees database and in a sandbox](http://www.mysqltutorial.org/tryit/) 
 
-^1 ![alt text]()
-^1 ![alt text]()
-^2 ![alt text]()
-^2 ![alt text]()
+^1 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E1%20select.png)<br>
+^1 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E1%20result.png)<br>
+^2 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20and.png)<br>
+^2 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20result.png)<br>
 
 ### Takeaways
 1. Creating a __tentative schedule__ for myself is important. Not only do things happen out of control, study plans can also be. Originally, I planned on reading sections 1-5 for this week, but I caught a cold last weekend... I was feeling crappy the whole entire week until this weekend. Therefore, I shorten my plans to sections 1-4 1/2 to avoid overload. __Making myself feel better is more important, or else no learning can even be done.__

@@ -28,7 +28,7 @@ __Filtering data:__ _choosing a specific part of the data_
       |__Null__ |Null  |False|Null |
       * zero is considered false and non-zero is true.
     * ```ADD``` is often used in ```WHERE, SELECT, UPDATE, DELETE``` and also in ```JOIN``` statements. 
-    * FUN FACT: __short-circult evaluation:__ when evaluating an expression that has  ```ADD```, if the first part of the expression is false, then MySQL _stops_ evaluating and concludes the statement as false.
+    * FUN FACT: __short-circuit evaluation:__ when evaluating an expression that has  ```ADD```, if the first part of the expression is false, then MySQL _stops_ evaluating and concludes the statement as false.
   * ```OR``` operator ^4
     * |         |True  |False|Null | 
       |---------|------|-----|-----|
@@ -42,7 +42,7 @@ __Filtering data:__ _choosing a specific part of the data_
     |   <> or !=    | not equal to     |
     |   <           | less than, usually with numeric and date/time data types|
     |   >           | greater than     |  
-    | <= or >=      | less than or euqal to __or__ greater than or equal to   |
+    | <= or >=      | less than or equal to __or__ greater than or equal to   |
 
 ### Examples    
 [All the examples come from an employees database and in a sandbox](http://www.mysqltutorial.org/tryit/) 

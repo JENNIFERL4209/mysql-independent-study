@@ -53,8 +53,8 @@ Filtering data: _choosing a specific part of the data_
 ^2 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20result.png)<br>
 ^3 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E3%20and.png)<br>
 ^3 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E3%20result.png)<br>
-^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20and.png)<br>
-^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20result.png)<br>
+^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E4%20or.png)<br>
+^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E4%20result.png)<br>
 
 
 ### Takeaways

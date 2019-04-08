@@ -49,10 +49,10 @@ Filtering data: _choosing a specific part of the data_
 
 ^1 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E1%20select.png)<br>
 ^1 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E1%20result.png)<br>
-^2 ![alt text]()<br>
-^2 ![alt text]()<br>
-^3 ![alt text]()<br>
-^3 ![alt text]()<br>
+^2 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20orderby.png)<br>
+^2 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20result.png)<br>
+^3 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E3%20and.png)<br>
+^3 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E3%20result.png)<br>
 ^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20and.png)<br>
 ^4 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E2%20result.png)<br>
 

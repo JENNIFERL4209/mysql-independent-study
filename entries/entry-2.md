@@ -14,8 +14,9 @@ __Querying data:__ _requesting data information_
     * You can set a condition in ```WHERE``` by stating ```state IS NOT NULL``` which will not return a column with ```NULL``` values.
   * ```GROUP BY``` also has the same functionality as ```DISTINCT```.
   * ```LIMIT``` stops searching after it finds the number of unique rows specified.
-Filtering data: _choosing a specific part of the data_
-1. ORDER BY: sort result set by single/multiple column(s) in an ascending/descending order ^3
+ 
+__Filtering data:__ _choosing a specific part of the data_
+1. ORDER BY: sort result set by single/multiple column(s) in a(n) ascending/descending order ^3
   * ```ORDER BY column1 [ASC|DESC], column2 [ASC|DESC]```
 2. WHERE: specify a specific search condition 
   * search condition only evaluates to _true, false, or unknown_.
@@ -44,7 +45,6 @@ Filtering data: _choosing a specific part of the data_
     | <= or >=      | less than or euqal to __or__ greater than or equal to   |
 
 ### Examples    
-
 [All the examples come from an employees database and in a sandbox](http://www.mysqltutorial.org/tryit/) 
 
 ^1 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/%5E1%20select.png)<br>
@@ -59,8 +59,7 @@ Filtering data: _choosing a specific part of the data_
 
 ### Takeaways
 1. Creating a __tentative schedule__ for myself is important. Not only do things happen out of control, but study plans can also be. Originally, I planned on reading sections 1-5 for this week, but I caught a cold last weekend... I was feeling crappy the whole entire week until this weekend. Therefore, I shorten my plans to sections 1-4 1/2 to avoid overload. __Making myself feel better is more important, or else no learning can even be done.__
-2. __Don't copy others' blog just because mine is different.__ Learning MySQL made me realize that there isn't really a lot of code-along activities. Mostly, it's about knowing the syntax and whether you can utilize the syntax to create a database. I think I should stop putting pressure on myself if my blog entry is different than others. __It's okay to be different.__  
+2. __Don't copy others' blog just because mine is different.__ Learning MySQL made me realize that there isn't really a lot of code-along activities. Mostly, it's about knowing the syntax and whether you can utilize it to create a database. I think I should stop putting pressure on myself if my blog entry is different than others. __It's okay to be different.__  
 
 ### Resources 
-
 1. [MySQL Tutorial](http://www.mysqltutorial.org/basic-mysql-tutorial.aspx)

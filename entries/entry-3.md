@@ -33,14 +33,14 @@ __Filtering data__: creating specific search conditions in a table to retrieve a
 <!--```JOIN```: linking data from more than one table -->
 
 ### Examples
-^1![alt text]()<br>
-^1![alt text]()<br>
-^2![alt text]()<br>
-^2![alt text]()<br>
-^3![alt text]()<br>
-^3![alt text]()<br>
-^4![alt text]()<br>
-^4![alt text]()<br>
+^1![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/j%20example.png)<br>
+^1![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/j%20result.png)<br>
+^2![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/i%20example.png)<br>
+^2![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/i%20result.png)<br>
+^3![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/er%20example.png)<br>
+^3![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/er%20result.png)<br>
+^4![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/alias%20example.png)<br>
+^4![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/alias%20result.png)<br>
 
 ### Takeaways
 1. __Be curious.__

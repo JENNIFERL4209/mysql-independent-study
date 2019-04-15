@@ -1,7 +1,7 @@
 # Week 3 - MySQL and Swift Collaboration Part 1
 
 ### Inspiration
-After a class discussion on my classmates' takeaways, I reflected upon my study plan and decided to _change_ my __tentative schedule__! One of the most important takeaways that stayed with me is by learning the little piceces that will help me build my project and start from there. Then, when you realize you need to learn something else, this is when you go back to your tutorial and start __LEARNING__ again. 
+After a class discussion on my classmates' takeaways, I reflected upon my study plan and decided to _change_ my __tentative schedule__! One of the most important takeaways that stayed with me is by learning the little pieces that will help me build my project and start from there. Then, when you realize you need to learn something else, this is when you go back to your tutorial and start __LEARNING__ again. 
 
 ### Learning 
 __Filtering data__: creating specific search conditions in a table to retrieve a specific result set
@@ -19,8 +19,8 @@ __Filtering data__: creating specific search conditions in a table to retrieve a
   * ```_```: matches any single characters
   * example: 
     * ```WHERE column_name LIKE 'j%'``` will filter column that begins with 'j' ^1
-    * ```WHERE column_name LIKE '%l'``` will filter column that ends with 'l' ^2
-    * ```WHERE column_name LIKE '%jl%'``` will filter column that includes 'jl'^3
+    * ```WHERE column_name LIKE '%i'``` will filter column that ends with 'i' ^2
+    * ```WHERE column_name LIKE '%er%'``` will filter column that includes 'er'^3
   
 ```ALIAS```: improve readability of the queries through column alias and table alias ^4 <br> 
   * ```column alias```: giving a description to the column name <br>
@@ -42,8 +42,12 @@ __Filtering data__: creating specific search conditions in a table to retrieve a
 ^4![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/alias%20example.png)<br>
 ^4![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/alias%20result.png)<br>
 
+### Tinkering
+This week I approached the OHMySQL API to see how I can connect MySQL with Swift before beginning on my project. After reading the documentation, I downloaded everything I need: MAMP and CocoaPods. However, while I was trying the given demo project, there was an expired link and I had to reach out to the author for more information before I proceed. 
+
 ### Takeaways
-1. __Be curious.__
+1. __Be curious.__ While I was consistently learning different MySQL functions, it can get boring if you're not trying things out. This week, I tinkered mostly in a sandbox to see what I can do and added some fun to it.
+
 
 ### Resources
 1. [OHMySQL API](https://github.com/oleghnidets/OHMySQL)

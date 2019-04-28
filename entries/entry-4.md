@@ -1,7 +1,7 @@
 # Week 4 - CRUD + Transaction
 
 ### Inspiration
-This week, I set my foot on __CRUD__, the acronym that every engineer will encounter at some point. I also tried creating a database in my terminal. Creating the database was a piece of cake, but getting MySQL to work in my terminal took me __forever__! Thank you, YouTube, for your _help_!
+This week, I set my foot on __CRUD__, the acronym that every engineer will encounter at some point. I learned about MySQL transactions which are similar to git commands (git add, commit, push, and more). I also tried creating a database in my terminal. Creating the database was a piece of cake but getting MySQL to work in my terminal took me __forever__! Luckily, I found my source! Thank you, YouTube, for your _help_!
 
 ### Learning
 __CRUD - Create, Read, Update, Delete__ <br>
@@ -47,14 +47,14 @@ _We're on a rescue mission!_
     * to enable, ```SET autocommit = 1;``` or ```SET autocommit = ON;```
 
 ### Examples
-Going back to week 1, there was no problem starting, stopping, or restarting MySQL on my terminal. However, I was not writing my code in the terminal as I wrote them in a sandbox. Because of spring break, I was able to have _some spare time_ trying to figure out how to create my own database in the terminal. After following a guide online, I encountered this obstacle. <br>
+Going back to week 1, there was no problem starting, stopping, or restarting MySQL in my terminal. However, I was not writing my code in the terminal as I wrote them in a sandbox. Because of spring break, I was able to have _some spare time_ trying to figure out how to create my own database in the terminal. After following a guide online, I encountered this obstacle. <br>
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Week4_Failure.png) <br>
-No, I can't just sit in front of my laptop and give up. Nobody will help me, and I need to resolve this problem on my own. I started googling why this problem occurs and how I can fix it. After trying different solutions, none of it worked. <br>
-Then, I realized that the occurrence of this problem is because I cannot start the MySQL server correctly. I searched how to start the server, and a video did the magic for me. YAY! <br>
+No, I can't just sit in front of my laptop and give up. I need to resolve this problem on my own. I started googling why this problem occurs and how I can fix it. After trying different solutions, none of it worked. <br>
+Then, I realized that the occurrence of this problem is because I cannot start the MySQL server correctly (why this problem occurs). I searched about starting the server, and a video did the magic for me in finding my mistake! <br>
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Week4_success.png) <br>
 
 ### Takeaways 
-1. __A successful engineer tries his/her best to resolve problems.__ The beauty of problems is that we can fix them. When I encountered my obstacle, I didn't want to face it because it's annoying! But it's all about problem-solving. Learning and trying to solve the problem defines success. 
+1. __A successful engineer tries his/her best to resolve problems.__ The beauty of problems is that we can fix them. When I encountered my obstacle, I didn't want to face it because it's annoying! But it's all about problem-solving. Learning and trying to solve the problem defines success, even beyond engineers. 
 
 ### Resources
 1. [YouTube Video](https://www.youtube.com/watch?v=ryvNDIX3gQA)

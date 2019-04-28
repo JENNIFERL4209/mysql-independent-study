@@ -48,10 +48,10 @@ _We're on a rescue mission!_
 
 ### Examples
 Going back to week 1, there was no problem starting, stopping, or restarting MySQL on my terminal. However, I was not writing my code in the terminal as I wrote them in a sandbox. Because of spring break, I was able to have _some spare time_ trying to figure out how to create my own database in the terminal. After following a guide online, I encountered this obstacle. <br>
-![alt text]() <br>
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Week4_Failure.png) <br>
 No, I can't just sit in front of my laptop and give up. Nobody will help me and I need to resolve this problem on my own. I started googling why this problem occurs and how I can resolve it. After trying different solutions, none of it worked. <br>
 Then, I realized that the occurrence of this problem is because I cannot start the MySQL server correctly. I searched how to start the server, and a video did the magic for me. YAY! <br>
-![alt text]() <br>
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Week4_success.png) <br>
 
 ### Takeaways 
 1. __A successful engineer tries his/her best to resolve problems.__ The beauty of problems is that we can resolve them. When I encountered my obstacle, I didn't want to face it. Because it's annoying! But it's all about problem-solving. Learning and trying to solve the problem defines success. 

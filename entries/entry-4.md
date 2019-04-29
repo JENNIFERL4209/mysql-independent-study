@@ -52,7 +52,7 @@ Going back to week 1, there was no problem starting, stopping, or restarting MyS
 No, I can't just sit in front of my laptop and give up. I need to resolve this problem on my own. I started googling why this problem occurs and how I can fix it. After trying different solutions, none of it worked. <br>
 Then, I realized that the occurrence of this problem is because I cannot start the MySQL server correctly (why this problem occurs). I searched about starting the server, and a video did the magic for me in finding my mistake! <br>
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Week4_success.png) <br>
-
+The problem was that I wasn't starting MySQL in the right folder. After moving into the correct folder, MySQL is finally willing to maintain some data for me. :)
 ### Takeaways 
 1. __A successful engineer tries his/her best to resolve problems.__ The beauty of problems is that we can fix them. When I encountered my obstacle, I didn't want to face it because it's annoying! But it's all about problem-solving. Learning and trying to solve the problem defines success, even beyond engineers. 
 

@@ -11,7 +11,7 @@ Managing Database:
 4. Remove a database: ```DROP DATABASE database_name;```
 
 Managing Table:
-1. `ALTER TABLE`: modifies existing table structure (add and drop columns, change data type, add primary key, rename table, and etc.)
+1. `ALTER TABLE`: modifies existing table structure (add and drop columns, change data type, add primary key, rename table, etc.)
     
     Add Column:
     ``` 
@@ -38,11 +38,11 @@ username varchar(255) NOT NULL,
 password varchar(255) NOT NULL);
 ```
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/DatabaseCommands.png) <br> 
-Then, I can see the columns that I have created. <br>
+Then, I can __see__ the columns that I have created. <br>
 ```SHOW COLUMNS from table_name;```
 <br>
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/ShowColumns.png) <br>
-I need to insert information into each column. <br>
+I need to __insert information into each column__. <br>
 ```
 INSERT INTO table_name
 VALUES('value1','value2','value3') #must be corresponding orders of the columns
@@ -50,7 +50,7 @@ VALUES('value1','value2','value3') #must be corresponding orders of the columns
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/InsertInfo.png)
 
 ### Takeaways 
-1. __You learn by doing.__ Reading tutorials and coding along was my strategy in learning. This week, I built a database on my own along with many Google searches. I found that I enjoy this process a lot. If this solution doesn't work, then I will try another solution. I'll continue to try until I accomplish my goals. _I was super excited when I was able to finish the database for my project partner Xiurong to connect MySQL with Swift!_
+1. __You learn by doing.__ Reading tutorials and coding along was my learning strategies. This week, I built a database on my own along with many Google searches. I found that I enjoy this process a lot. If this solution doesn't work, then I will try another solution. I'll continue to try until I accomplish my goals. _I was super excited when I was able to finish the database for my project partner Xiurong to connect MySQL with Swift!_
 
 ### Resources
 1. A lot of Google Searches... <br>

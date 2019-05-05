@@ -37,21 +37,21 @@ CREATE TABLE user_information (
 username varchar(255) NOT NULL,
 password varchar(255) NOT NULL);
 ```
-![alt text]()
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/DatabaseCommands.png)
 Then, I can see the columns that I have created. <br>
 ```SHOW COLUMNS from table_name;```
 <br>
-![alt text]()
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/ShowColumns.png)
 I need to insert information into each column. <br>
 ```
 INSERT INTO table_name
 VALUES('value1','value2','value3') #must be corresponding orders of the columns
 ```
-![alt text]()
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/InsertInfo.png)
 
 ### Takeaways 
 1. __You learn by doing.__ Reading tutorials and coding along were my strategy in learning. This week, I built a database on my own along with many Google searches. I found that I enjoy this process a lot. If this solution doesn't work, then I will try another solution. I'll continue to try until I accomplish my goals. _I was super excited when I was able to finish the database for my project partner Xiurong to connet MySQL with Swift!_
 
 ### Resources
 1. A lot of Google Searches... <br>
-![alt text]()
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/GoogleSearch.png)

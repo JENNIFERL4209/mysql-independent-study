@@ -37,11 +37,11 @@ CREATE TABLE user_information (
 username varchar(255) NOT NULL,
 password varchar(255) NOT NULL);
 ```
-![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/DatabaseCommands.png)
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/DatabaseCommands.png) <br> 
 Then, I can see the columns that I have created. <br>
 ```SHOW COLUMNS from table_name;```
 <br>
-![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/ShowColumns.png)
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/ShowColumns.png) <br>
 I need to insert information into each column. <br>
 ```
 INSERT INTO table_name

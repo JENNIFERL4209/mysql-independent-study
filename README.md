@@ -5,7 +5,7 @@
 * [Entry 3: MySQL and Swift Collaboration Part 1](entries/entry-3.md)
 * [Entry 4: CRUD + Transaction](entries/entry-4.md)
 * [Entry 5: Productivity App Database](entries/entry-5.md)
-* [Entry 6: ](entries/entry-6.md)
+* [Entry 6: Data Types + Messenger Database](entries/entry-6.md)
 * [Entry 7: ](entries/entry-7.md)
 * [Entry 8: ](entries/entry-8.md)
 * [Entry 9: ](entries/entry-9.md)

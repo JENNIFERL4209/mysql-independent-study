@@ -14,13 +14,13 @@ Last week, I completed a user information database storing user's username, pass
     * Learning different data types leads to a better "design" of a database. 
       * i.e. A budgeting database is different than an employee database. For budgeting, you may want some columns to be _only_ numeric for dollar amounts. While for employee, you can use string and numeric _based on_ employee information. 
       * Therefore, it is important to learn about data types __and__ use them correctly. 
-    * [alt text!]()
+    * [alt text!](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/DataTypes.png)
     * Above is a list of MySQL data types. I usually use __VARCHAR__ for strings because it's more common than __CHAR__, __TINYTEXT__, and __TEXT__ in many examples.
     * For my messenger database, I am considering an ID column for each user, and I am thinking of using __numeric__ data types because I think it's easier to keep track of user with numbers. 
 
 3. Messenger Database
     * I used [this](https://stackoverflow.com/questions/40370069/mysql-realtime-messaging) as a reference and guide.
-    * [alt-text]()
+    * [alt-text!](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Message.png)
     * Let's explain!
 
 

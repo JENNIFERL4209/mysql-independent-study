@@ -22,14 +22,14 @@ Last week, I completed a user information database storing user's username, pass
     * I used [this](https://stackoverflow.com/questions/40370069/mysql-realtime-messaging) as a reference and guide.
     * ![alt-text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/Message.png)
     * Let's explain!
-
-
-### Examples
+      * I designed an ID for each user as they are easier to be distinguished as numbers than their usernames.
+      * The BODY will be the message.
+      * The CREATED_AT will be the time of which the message is sent.
+      * SENDER_ID will be used to distinguish the sender from the receiver. 
 
 ### Takeaways 
 1. __Prioritize!__ While I spent the majority of the week focusing on my AP exams, I also spent a lot of time discussing with Xiurong on connecting MySQL with Swift. The _connector_ must be written in Swift code, so I tried my best to help her with this process. In the past weeks, I have found an API that I wanted to test, but it didn't really work out because I don't know Swift. __No worries, we scheduled a time with Xiurong's coworker to help us and see if we can connect them, finally!__
 2. __Have Fun!__ At this point, I start to lose motivation and confidence that we cannout build a MVP (Minimum Viable Product). As I am wrapping up my MySQL missions for the app, I want to have fun finishing it! __I guess I need to save some energy to learn some Swift!__
-
 
 ### Resources
 As stated above as __"hyper"__ links!

@@ -10,12 +10,12 @@ _"Firebase is a backend platform for building Web, Android and IOS applications.
 The first thing I did to learn about Firebase is to watch [this tutorial](https://www.youtube.com/watch?v=JV9Oqyle3iE) to connect Firebase with Swift. __I wanted to make sure that I can actually use Firebase in Swift before I start using Firebase.__ <br>
 _Below are my notes about the tutorial._ <br>
 
-![alt text](chg) <br>
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/FirebaseNotes.png) <br>
 
 For my app, I will be using __Real-time Database__ which allows all users to receive live updates after every change.  
 
 So far, I have created a real-time database storing user information. <br>
-![alt text]() <br>
+![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/UserInformation.png) <br>
 ---------------------------------------------
 Read and Write Data on iOS
 1. ```import FirebaseDatabase```

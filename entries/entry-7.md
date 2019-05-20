@@ -1,13 +1,13 @@
 # Week 7 - Firebase
 
 ### Inspiration
-This week I have come to the conclusion to use __Firebase__ as the database management system for my productivity app instead of MySQL. This is because that there aren't sufficient resources to connect MySQL with Swift - many APIs & libraries are vague with their documentations. Therefore, I had to learn Firebase! <br>
+This week I have come to the conclusion to use __Firebase__ as the database management system for my productivity app instead of MySQL. This is because there aren't sufficient resources to connect MySQL with Swift - many APIs & libraries are vague with their documentation. Therefore, I had to learn Firebase! <br>
 
 ### Learning
 __What is Firebase?__ 🔥<br>
-_"Firebase is a backend platform for building Web, Android and IOS applications. It offers real time database, different APIs, multiple authentication types and hosting platform."_ -TutorialsPoint <br>
+_"Firebase is a backend platform for building Web, Android, and IOS applications. It offers real-time database, different APIs, multiple authentication types and hosting platform."_ -TutorialsPoint <br>
 
-The first thing I did to learn about Firebase is to watch [this tutorial](https://www.youtube.com/watch?v=JV9Oqyle3iE) to connect Firebase with Swift. __I wanted to make sure that I can actually use Firebase in Swift before I start using Firebase.__ <br>
+The first thing I did to learn about Firebase is to watch [this tutorial](https://www.youtube.com/watch?v=JV9Oqyle3iE) to connect Firebase with Swift. <br> __I wanted to make sure that I can actually use Firebase in Swift before I start using Firebase.__ <br>
 _Below are my notes about the tutorial._ <br>
 
 ![alt text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/FirebaseNotes.png) <br>
@@ -26,7 +26,7 @@ So far, I have created a real-time database storing user information. <br>
 6. ```ref?.child("#name").observe(#.childAdded, with: {(#FIRDataSnapshot)``` <br>
 
 ### Firebase Tutorial for iOS Notes
-1. Don't write too much nested data because everytime you retrieve a data, the associated data will also be retrieved.
+1. Don't write too much nested data because every time you retrieve a data, the associated data will also be retrieved.
 2. Always refer to your database. 
 
 ### Takeaways 

@@ -1,4 +1,7 @@
 # MySQL Independent Study
+Hello! My name is Jennifer Liu and I will be learning MySQL and Firebase in _nine_ weeks to connect with Swift to build a Productivity App name __Life•X•Focus__! <br> I am a senior at [High School of Telecommunication Arts and Technology](http://www.hstat.org/) and a part of the school's [Software Engineering Program (SEP)](https://hstatsep.github.io/). <br>
+If you wish to provide any feedback, suggestion, or comment, please email me at liujennifer1230@gmail.com!
+
 ### Table of Contents
 * [Entry 1: Choosing MySQL](entries/entry-1.md)
 * [Entry 2: Data](entries/entry-2.md)
@@ -7,7 +10,7 @@
 * [Entry 5: Productivity App Database](entries/entry-5.md)
 * [Entry 6: Data Types + Messenger Database](entries/entry-6.md)
 * [Entry 7: Firebase](entries/entry-7.md)
-* [Entry 8: ](entries/entry-8.md)
+* [Entry 8: Life•X•Focus App Construction](entries/entry-8.md)
 * [Entry 9: ](entries/entry-9.md)
 
 ### Resources

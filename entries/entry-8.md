@@ -14,7 +14,7 @@ This week, I was notified that I am a finalist for the Software Engineering Prog
 
 2. __Life•X•Focus__ will be my productivity app's name where I used my last name's initial in __Life__, __X__ for my partner's name Xiurong, and __Focus__ is the app's main mission!
 
-3. ![alt_text]()
+3. ![alt_text](https://github.com/JENNIFERL4209/mysql-independent-study/blob/master/images/AppLogo.jpeg)
 
 4. After nine weeks, I need to present my app to my class and to the showcase audiences. Therefore, I organized a [powerpoint](https://docs.google.com/presentation/d/1LOUxn2ikI7NjMUE9wP5_fSEpsBgVItAgUtAMr1ohgsU/edit?usp=sharing) to present my independent study journey and my learning product: app.
 

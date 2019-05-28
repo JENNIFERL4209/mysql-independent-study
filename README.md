@@ -1,4 +1,4 @@
-# MySQL Independent Study
+# MySQL + Firebase Independent Study
 Hello! My name is Jennifer Liu and I will be learning MySQL and Firebase in _nine_ weeks to connect with Swift to build a Productivity App name __Life•X•Focus__! <br> I am a senior at [High School of Telecommunication Arts and Technology](http://www.hstat.org/) and a part of the school's [Software Engineering Program (SEP)](https://hstatsep.github.io/). <br>
 If you wish to provide any feedback, suggestion, or comment, please email me at liujennifer1230@gmail.com!
 

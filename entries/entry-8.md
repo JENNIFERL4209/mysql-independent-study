@@ -20,7 +20,7 @@ This week, I was notified that I am a finalist for the Software Engineering Prog
 
 5. I took some time to understand the code in my app. 
     * ```@IBOutlet weak var ____: UILabel!``` is a connector to a label (user_input) and UI is a user interface kit that contains labels and buttons.
-    * ```performSegue(withIdentifier: " ", sender: self)``` is a "route" that performs a segway through an unique inspector.
+    * ```performSegue(withIdentifier: " ", sender: self)``` is a "route" that performs a segway through a unique inspector.
     * I inserted comments in Xcode, a development environment for MacOS, but Xiurong doesn't want to reveal them. Swift is pretty self-explanatory and easy to understand.
  
 6. Finally, Swift is able to pass data to Firebase. For more information, please review [Xiurong's blog](https://github.com/xiurongy3506/swift_independent_study/blob/master/entries/entry8.md).
@@ -29,8 +29,8 @@ This week, I was notified that I am a finalist for the Software Engineering Prog
     * Use Google Fonts to find font styles
     * Use CocoaPods to import Google Fonts
     * App color will be blue and yellow based on our favorite colors
-    * Provide feature recommendations such as using minute timer instead of second timer
+    * Provide feature recommendations such as using a minute timer instead of the second timer
       * Add & update to-do lists 
 
 ### Takeaways 
-1. __Be proud in what you do.__ Because I am focusing on database management, I couldn't do much to help Xiurong in Swift. If she encounters a bug in Swift, I can't do anything because I didn't learn about Swift. I can only help her anything related to Firebase. I feel bad that Xiurong has to do the majority of the work. Therefore, I decided to take on app design to pull off Xiurong's weight. Regardless of what, I hope that I can stil be proud of what I'm doing. 
+1. __Be proud of what you do.__ Because I am focusing on database management, I couldn't do much to help Xiurong in Swift. If she encounters a bug in Swift, I can't do anything because I didn't learn about Swift. I can only help her anything related to Firebase. I feel bad that Xiurong has to do the majority of the work. Therefore, I decided to take on app design to pull off Xiurong's weight. Regardless of what, I hope that I can still be proud of what I'm doing. 
